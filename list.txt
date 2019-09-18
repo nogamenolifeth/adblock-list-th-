@@ -1,0 +1,9 @@
+[Adblock Plus 2.0]
+! Version:
+! Title:
+! Last modified:
+! Expires: 4 days (update frequency)
+! Homepage:
+!
+||beaverads.com^
+||2.bp.blogspot.com/-Jq7uyF_PDus/XPMIznytvfI/AAAAAAAAB2I/8uEin76NdJs1y8gBgWd7mWXZWEc65hNuQCLcBGAs/s1600/380x70.gif
